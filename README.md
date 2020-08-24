@@ -1,6 +1,6 @@
 # Project description
 
-The purpose of this project to create some music. Is not exaxtly a music, is just music
+The purpose of this project to create some music. Is not exactly a music, is just music
 created by speaker tones. 
 
 
